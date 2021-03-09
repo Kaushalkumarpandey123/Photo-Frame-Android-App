@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kaushal_12</string>
+    <string name="kaushal_s_photo_frame_app">Kaushal Photo Frame App</string>
+    <string name="pic0">pic0</string>
+    <string name="pic1">pic1</string>
+    <string name="pic2">pic2</string>
+    <string name="pic3">pic3</string>
+    <string name="pic4">pic4</string>
+    <string name="pic5">pic5</string>
+    <string name="pic6">pic6</string>
+    <string name="pic7">pic7</string>
+    <string name="pic8">pic8</string>
+    <string name="pic9">pic9</string>
+    <string name="pic10">pic10</string>
+    <string name="pic11">pic11</string>
+    <string name="radha_kant_pandey">Radha_Kant_Pandey</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+</resources>
